@@ -1570,6 +1570,11 @@
   resolved "https://registry.yarnpkg.com/@mdn/browser-compat-data/-/browser-compat-data-3.3.11.tgz#de8f3d3c1fed81415791bf15603089279f207c6f"
   integrity sha512-lZj43fIFrNiUCOBJixccekZQrOqIBq9SWNR9sYyeUmqxl6aWjpUMcngfxbcjvxgb7tmJPl12pI6s6cQwI5oqHA==
 
+"@mdn/browser-compat-data@^3.3.14":
+  version "3.3.14"
+  resolved "https://registry.yarnpkg.com/@mdn/browser-compat-data/-/browser-compat-data-3.3.14.tgz#b72a37c654e598f9ae6f8335faaee182bebc6b28"
+  integrity sha512-n2RC9d6XatVbWFdHLimzzUJxJ1KY8LdjqrW6YvGPiRmsHkhOUx74/Ct10x5Yo7bC/Jvqx7cDEW8IMPv/+vwEzA==
+
 "@nicolo-ribaudo/chokidar-2@2.1.8-no-fsevents.2":
   version "2.1.8-no-fsevents.2"
   resolved "https://registry.yarnpkg.com/@nicolo-ribaudo/chokidar-2/-/chokidar-2-2.1.8-no-fsevents.2.tgz#e324c0a247a5567192dd7180647709d7e2faf94b"
@@ -2515,12 +2520,12 @@ ast-metadata-inferer@^0.2.0-0:
   resolved "https://registry.yarnpkg.com/ast-metadata-inferer/-/ast-metadata-inferer-0.2.0.tgz#a470e5d1d7402b18c6f7a1f3d6900723cfa07392"
   integrity sha512-6yPph2NeCHNxoI/ZmjklYaLOSZDAx+0L0+wsXnF56FxmjxvUlYZSWcj1KXtXO8IufruQTzVFOjg1+IzdDazSPg==
 
-ast-metadata-inferer@^0.5.1:
-  version "0.5.1"
-  resolved "https://registry.yarnpkg.com/ast-metadata-inferer/-/ast-metadata-inferer-0.5.1.tgz#8268d68b20c03ff3dbce97c15dfa00dcac70fa5c"
-  integrity sha512-fj+QuB47ODy18p5gJ4BFnpenk992o7gx7oPid6oUK9+Uy/F3/5cvZ13harpQPN5Y8MlcjYf0y1LwgOV1J31k+A==
+ast-metadata-inferer@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/ast-metadata-inferer/-/ast-metadata-inferer-0.6.0.tgz#512ca0ea00de3ced5b610e9b029fe6d08f29eda0"
+  integrity sha512-vI/F+NP0g40QMfufPiWfuKCvFAZPC0o8VxqkizkLxl63SlBHOyUqRPsvcSm+rFyDDi9Uj+9CxWqGb72rdrgghw==
   dependencies:
-    "@mdn/browser-compat-data" "^3.3.11"
+    "@mdn/browser-compat-data" "^3.3.14"
 
 astral-regex@^2.0.0:
   version "2.0.0"
